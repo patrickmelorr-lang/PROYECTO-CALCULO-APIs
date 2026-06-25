@@ -27,3 +27,28 @@ Aplicando técnicas de **regresión lineal** que permiten calcular la recta que 
 ---
 
 ##  Estructura del Proyecto
+````
+PROYECTO-CALCULO-APIs/
+├── README.md                    (este archivo)
+├── requirements.txt             (dependencias Python)
+├── .gitignore                  (archivos ignorados)
+│
+├── notebooks/                   (notebooks individuales de cada integrante)
+│   ├── 01_API_GitHub.ipynb
+│   ├── 02_API_LLM.ipynb
+│   ├── 03_API_Bitcoin.ipynb
+│   ├── 04_API_Spotify.ipynb
+│   └── 05_COCOMO.ipynb
+│
+├── assets/
+│   ├── images/                  (gráficas PNG y SVG)
+│   └── outputs/                 (archivos JSON con datos)
+│
+├── utils/
+│   └── shared_functions.py      (funciones reutilizables)
+│
+└── docs/
+    ├── INSTRUCCIONES_INTEGRANTES.md
+    └── PRESENTACION_GRUPAL.md
+````
+
